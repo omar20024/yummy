@@ -26,4 +26,5 @@ Screenshot
   Technologies Used
 - **HTML5** → Structure  
 - **CSS3** → Styling & responsive layout  
-- **JavaScript (ES6)** → Interactivity (menu toggle, search filter, form validation)  
+- **JavaScript (ES6)** → Interactivity (menu toggle, search filter, form validation)
+- using API (theme aldb)  
